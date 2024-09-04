@@ -1,0 +1,122 @@
+{
+    "title": "Resume!",
+    "profile": {
+        "name": "Yahya Aqrom",
+        "title": "Fullstack Developer Intern",
+        "description": "As an aspiring fullstack developer, I have gained proficiency in React, React Native, Bootstrap, Tailwind, and SASS. I also have hands-on experience with Git, Node.js, Hapi.js, Electron.js, Vue.js, CodeIgniter, and FastAPI.",
+        "image": "profil.webp"
+    },
+    "skills": [
+        {
+            "title": "Flat 2.0",
+            "description": "Creating user-friendly interfaces that delight.",
+            "icon": "fire.svg"
+        },
+        {
+            "title": "Interactive",
+            "description": "Crafting interactive experiences that engage.",
+            "icon": "toggle.svg"
+        },
+        {
+            "title": "Responsive",
+            "description": "Designing captivating screens that adapts.",
+            "icon": "frame.svg"
+        }
+    ],
+    "experiences": [
+        {
+            "title": "Freelance Web Developer",
+            "company": "AAT Connect",
+            "date": "Jun 2022 - Jul 2022",
+            "description": [
+                "In this project, I worked alone to develop a simple web app for an automotive dealer company using Bootstrap and CodeIgniter within a tight five-week deadline."
+            ]
+        },
+        {
+            "title": "Freelance Web Developer",
+            "company": "Connecting Generations",
+            "date": "Jul 2021",
+            "description": [
+                "In this project, I worked alone to develop a campaign microsite for a FTUI alumni association election candidate using Figma and Bootstrap within a tight two-week deadline."
+            ]
+        },
+        {
+            "title": "Frontend Developer Intern",
+            "company": "Pexpress Indonesia",
+            "date": "Jun 2019 - Aug 2019",
+            "description": [
+                "In this internship, I worked under the supervision of a senior developer for a logistics startup to develop desktop and mobile user interfaces using Bootstrap and CodeIgniter during a three-month internship."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "title": "Information System and Technology",
+            "institution": "Institut Teknologi Bandung",
+            "date": "Aug 2019 - Present",
+            "description": [
+                "Learned and implemented the concepts of Software Engineering, a total of 25 SCH: Introduction to Computation, Programming Fundamentals, Algorithm and Data Structure IST, Object-Oriented Programming IST, Software Engineering IST, Mobile Platform & Application Development, Human Computer Interaction, Database Modeling, Database Management."
+            ]
+        }
+    ],
+    "organizational": [
+        {
+            "title": "Secretary General",
+            "organization": "Himpunan Mahasiswa Informatika ITB",
+            "date": "Mar 2022 - Present",
+            "description": [
+                "Assisted the chairman in day-to-day coordination of 22 work divisions within a team of 60+ people.",
+                "Developed an integrated student needs service center and sustainable knowledge management systems, impacting over 1,000 HMIF ITB students."
+            ]
+        },
+        {
+            "title": "Secretary General",
+            "organization": "HMIF ITB Student Orientation",
+            "date": "Jun 2021 - Sep 2021",
+            "description": [
+                "Assisted the project officer in tightly coordinating 12 work divisions within a team of 120+ people.",
+                "Built a robust and sustainable Discord-based project framework, impacting over 400 sophomore ITB students."
+            ]
+        },
+        {
+            "title": "Secretary General",
+            "organization": "Ganesha Academy Pioneer",
+            "date": "Jul 2020 - Jan 2021",
+            "description": [
+                "Assisted the project officer in coordinating 3 work divisions within a team of 15 people.",
+                "Collaborated with the KM ITB Freshman Ministry to curate local and national leaders as speakers, impacting over 100 freshman ITB students."
+            ]
+        }
+    ],
+    "teaching": [
+        {
+            "title": "Training Facilitator of Initiator Class Vol 1 & 2",
+            "institution": "Kabinet KM ITB",
+            "date": "Aug 2020 - Sep 2020",
+            "description": [
+                "Two times volunteering as Training Facilitator (monthly: Aug, Sep), teaching design thinking principles and frameworks in Initiator Class Vol 1 and teaching initiating social movement skills in Initiator Class Vol 2.",
+                "My mentee group achieved best team awards on vol 1 & 2."
+            ]
+        },
+        {
+            "title": "Training Facilitator of Kawah Kepemimpinan Pelajar Jawa Barat",
+            "institution": "Dinas Pendidikan Provinsi Jawa Barat",
+            "date": "Jun 2017 - Jul 2019",
+            "description": [
+                "Three times volunteering as training facilitator (annually: 2017, 2018, 2019), teaching leadership skills and principles to over 300 student organization leaders from all over West Java.",
+                "Gained this opportunity from my achievement as West Java representative at KKP Nasional 2017."
+            ]
+        }
+    ],
+    "contact": {
+        "email": "aqrom.yahya75@gmail.com",
+        "phone": "+62 897 6075 402",
+        "location": "Bandung, Jawa Barat",
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/yahya-aqrom/",
+            "github": "https://github.com/yahyaqr",
+            "twitter": "https://twitter.com/AqromYahya",
+            "instagram": "https://www.instagram.com/yahyaqr/"
+        }
+    }
+}
