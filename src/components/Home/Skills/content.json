@@ -1,0 +1,19 @@
+{
+    "skills": [
+        {
+            "title": "Flat 2.0",
+            "description": "Creating user-friendly interfaces that delight.",
+            "icon": "fire.svg"
+        },
+        {
+            "title": "Interactive",
+            "description": "Crafting interactive experiences that engage.",
+            "icon": "toggle.svg"
+        },
+        {
+            "title": "Responsive",
+            "description": "Designing captivating screens that adapts.",
+            "icon": "frame.svg"
+        }
+    ]
+}

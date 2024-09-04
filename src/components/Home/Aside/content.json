@@ -1,0 +1,19 @@
+{
+    "profile": {
+        "name": "Yahya Aqrom",
+        "title": "Fullstack Engineer",
+        "description": "As a fullstack developer, I have gained proficiency in React, React Native, Bootstrap, Tailwind, and SASS. I also have hands-on experience with Git, Node.js, Hapi.js, Electron.js, Vue.js, CodeIgniter, and FastAPI.",
+        "image": "profil.webp"
+    },
+    "contact": {
+        "email": "aqrom.yahya75@gmail.com",
+        "phone": "+62 897 6075 402",
+        "location": "Bandung, Jawa Barat",
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/yahya-aqrom/",
+            "github": "https://github.com/yahyaqr",
+            "twitter": "https://twitter.com/AqromYahya",
+            "instagram": "https://www.instagram.com/yahyaqr/"
+        }
+    }
+}
